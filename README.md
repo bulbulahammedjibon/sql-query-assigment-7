@@ -1,4 +1,4 @@
-# 📘 PostgreSQL Basic Concepts (বাংলা ও ইংরেজি মিশ্রিত)
+# 📘 PostgreSQL Basic Concepts  
 
 ---
 
@@ -12,15 +12,10 @@ Postgres একটা ওপেন সোর্স অবজেক্ট রি�
 
 ---
 
-## 2. What is the purpose of a database schema in PostgreSQL?
+ 
 
-<!-- -->
-
----
-
-## 3. Explain the Primary Key and Foreign Key concepts in PostgreSQL.
-
----
+ 
+ 
 
 ## 4. What is the difference between the VARCHAR and CHAR data types?
 
@@ -102,8 +97,4 @@ Postgres-এ বিভিন্ন ধরনের জয়েন অপার�
 
 ---
 
-## 10. How can you calculate aggregate functions like COUNT(), SUM(), and AVG() in PostgreSQL?
-
-<!-- -->
-
----
+ 
